@@ -1,6 +1,7 @@
 
 import './App.css'
 import Card from './components/Card'
+import Footer from './components/Footer'
 import Form from './components/Form'
 import Hero from './components/Hero'
 import ImageGallery from './components/ImageGallery'
@@ -17,6 +18,7 @@ function App() {
    <Form/>
    <ImageGallery/>
    <Testimonial/>
+   <Footer/>
      </>
   )
 }
